@@ -1,3 +1,3 @@
 # multivm For MacOSM!_M2 chip
 
-run multiple kms with one Vagrantfile
+run multiple vms with one Vagrantfile
